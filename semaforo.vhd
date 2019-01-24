@@ -1,6 +1,6 @@
 
 -- Company: ETSIT
--- Engineer: Jesus Rodriguez Ovejero
+-- Engineer: Jesus RO
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
